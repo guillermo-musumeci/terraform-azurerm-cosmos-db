@@ -1,2 +1,5 @@
-# terraform-azurerm-cosmos-db
-Terraform module for Azure Cosmos DB
+# Terraform module for Azure Cosmos DB
+
+Not ready yet
+
+
